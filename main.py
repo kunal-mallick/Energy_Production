@@ -17,5 +17,5 @@ col[2].number_input('Relative Humidity', 25.56, 100.16)
 col2 = st.columns(3)
 
 col2[0].image('https://raw.githubusercontent.com/kunal-mallick/Energy_Production/working/Images/Frame%202.png')
-col2[1].text('Energy\n whould be    ' + '\n' +' ')
+col2[1].text('Energy -\n whould be    ' + '\n' +' ')
 col2[2].text('Production' + '\n' + str(x) + ' MW')
