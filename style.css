@@ -1,0 +1,13 @@
+/* Style stHeader */
+[data-testid="stHeader"]{
+    height: 88px;
+    background-image: url("https://raw.githubusercontent.com/kunal-mallick/Churn_Prediction/main/img/Frame%201.png");
+    background-size: 60%;
+    background-position: top-left;
+    background-repeat: no-repeat;
+    background-attachment: local;
+}
+
+footer{
+    visibility: hidden;
+}
